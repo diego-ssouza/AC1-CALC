@@ -1,5 +1,5 @@
 CALCULADORA WEB SIMPLES DE 3 PARÂMETROS
-# Como Mostrado em sala de aula
+#Como Mostrado em sala de aula
 
 # AC1-CALC
 # TEMPLATES #
